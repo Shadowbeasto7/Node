@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "this is my day1 ",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shadowbeasto7/Node.git"
+  },
+  "author": "nirajan",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Shadowbeasto7/Node/issues"
+  },
+  "homepage": "https://github.com/Shadowbeasto7/Node#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
